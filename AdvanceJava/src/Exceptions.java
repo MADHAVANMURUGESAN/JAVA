@@ -1,5 +1,3 @@
-package AdvanceJava;
-
 class nullException extends /*RuntimeException*/Exception {
     public nullException(String str) {
       super(str);

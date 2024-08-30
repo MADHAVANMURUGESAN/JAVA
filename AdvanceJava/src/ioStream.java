@@ -1,5 +1,3 @@
-package AdvanceJava;
-
 import java.io.*;
 
 public class ioStream {

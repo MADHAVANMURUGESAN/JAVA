@@ -1,5 +1,3 @@
-package AdvanceJava;
-
 @FunctionalInterface
 interface a {
     //void show();

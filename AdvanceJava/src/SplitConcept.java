@@ -1,5 +1,3 @@
-package AdvanceJava;
-
 import java.util.Arrays;
 
 public class SplitConcept {

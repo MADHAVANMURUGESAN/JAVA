@@ -1,4 +1,3 @@
-package AdvanceJava;
 class statics{
     String str1 = null;
     static int num ;

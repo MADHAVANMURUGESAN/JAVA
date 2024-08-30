@@ -1,5 +1,3 @@
-package AdvanceJava;
-
 import static java.lang.Class.forName;
 
 class staticblck{
