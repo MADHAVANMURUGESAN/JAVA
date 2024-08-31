@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/ExceptionHandleConcept/ExceptionHandleConcept.iml" filepath="$PROJECT_DIR$/ExceptionHandleConcept/ExceptionHandleConcept.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JAVA.iml" filepath="$PROJECT_DIR$/.idea/JAVA.iml" />
       <module fileurl="file://$PROJECT_DIR$/MultithreadConcept/MultithreadConcept.iml" filepath="$PROJECT_DIR$/MultithreadConcept/MultithreadConcept.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SolidPrinciple/SolidPrinciple.iml" filepath="$PROJECT_DIR$/SolidPrinciple/SolidPrinciple.iml" />
       <module fileurl="file://$PROJECT_DIR$/basicconcept/basicconcept.iml" filepath="$PROJECT_DIR$/basicconcept/basicconcept.iml" />
     </modules>
   </component>
