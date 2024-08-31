@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="272775aa-880b-4f79-abbd-1dacd426a5f9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/SolidPrinciple/src/LspPrinciple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SolidPrinciple/src/LspPrincipleRealWorldExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SolidPrinciple/src/LspViolationPrinciple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SolidPrinciple/src/OCPPrincipleRealWorldExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SolidPrinciple/src/SrpPrincipleRealWorldExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SolidPrinciple/src/DipPrinciple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SolidPrinciple/src/DipPrincipleRealWorldExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SolidPrinciple/src/DipViolationPrinciple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SolidPrinciple/src/IspPrinciple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SolidPrinciple/src/IspPrincipleRealWorldExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SolidPrinciple/src/IspViolationPrinciple.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +45,8 @@
     "Application.ConceptOfConstructor.executor": "Run",
     "Application.Conceptofclass.executor": "Run",
     "Application.ConvertionConcept.executor": "Run",
+    "Application.DipPrinciple.executor": "Run",
+    "Application.DipViolationPrinciple.executor": "Run",
     "Application.EncapsulationClass.executor": "Run",
     "Application.ExceptionConcept.executor": "Run",
     "Application.FinallyConcept.executor": "Run",
@@ -52,6 +54,8 @@
     "Application.InBuildException.executor": "Run",
     "Application.InitThrgMethod.executor": "Run",
     "Application.InterfaceConcept.executor": "Run",
+    "Application.IspPrincipleRealWorldExample.executor": "Run",
+    "Application.IspViolationPrinciple.executor": "Run",
     "Application.ListConcept.executor": "Run",
     "Application.LspPrinciple.executor": "Run",
     "Application.LspPrincipleRealWorldExample.executor": "Run",
@@ -68,6 +72,7 @@
     "Application.SetConcept.executor": "Run",
     "Application.SingleClass.executor": "Run",
     "Application.SrpPrinciple.executor": "Run",
+    "Application.SrpPrincipleRealWorldExample.executor": "Run",
     "Application.SrpViolationPrinciple.executor": "Run",
     "Application.StringConcept.executor": "Run",
     "Application.Switchconcept.executor": "Run",
@@ -90,6 +95,52 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\JAVA\AdvanceJava\src" />
     </key>
+  </component>
+  <component name="RunManager" selected="Application.DipPrincipleRealWorldExample">
+    <configuration name="DipPrinciple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DipPrinciple" />
+      <module name="SolidPrinciple" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DipPrincipleRealWorldExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DipPrincipleRealWorldExample" />
+      <module name="SolidPrinciple" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DipViolationPrinciple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DipViolationPrinciple" />
+      <module name="SolidPrinciple" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IspPrincipleRealWorldExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IspPrincipleRealWorldExample" />
+      <module name="SolidPrinciple" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IspViolationPrinciple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IspViolationPrinciple" />
+      <module name="SolidPrinciple" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DipPrincipleRealWorldExample" />
+        <item itemvalue="Application.DipPrinciple" />
+        <item itemvalue="Application.DipViolationPrinciple" />
+        <item itemvalue="Application.IspPrincipleRealWorldExample" />
+        <item itemvalue="Application.IspViolationPrinciple" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
