@@ -1,6 +1,4 @@
-import java.util.ArrayList;
-import java.util.Iterator;
-import java.util.List;
+import java.util.*;
 
 public class Main {
     public static void main(String[] args) {
@@ -16,5 +14,19 @@ public class Main {
             }
         }
         System.out.println("list: " + list);
+
+        Map<String, Integer> map = new HashMap<>();
+        map.put("key1", 1);
+        map.put("key2", 2);
+        map.put("key3", 3);
+
+        // Converting map keys to a list
+        List<Map<String, Integer>> keysList = Arrays.asList(new Map[]{map});
+        List<int[]> keysList1 = Arrays.asList(new int[]{2, 3, 5, 3});
+
+
+        System.out.println("keysList: "+keysList);
+
     }
+
 }

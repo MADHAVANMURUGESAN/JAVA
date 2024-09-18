@@ -6,15 +6,31 @@ public class StringConcept {
     public static void main(String[] args) {
         String strValue1 = new String("Hello world");
         //or
-        String strValue2 = "Hello madhavan";
+        String strValue2 = "Hello world";
+        String strValue3 = new String("Hello world");
         System.out.println("strValue1: " + strValue1);
+        System.out.println("strValue1: " + System.identityHashCode(strValue1));
         System.out.println("strValue2: " + strValue2);
+        System.out.println("strValue2: " + System.identityHashCode(strValue2));
+        System.out.println("strValue3: " + strValue3);
+        System.out.println("strValue3: " + System.identityHashCode(strValue3));
+        System.out.println("strValue3: " + strValue2 == strValue1);
+        System.out.println("strValue3: " + strValue2.equals(strValue1));
+
+        strValue2 = strValue2 + "s";
+        System.out.println("strValue2: " + strValue2);
+        System.out.println("strValue2: " + System.identityHashCode(strValue2));
         strValue1.concat("java");//immutable class
         System.out.println("strValue1: " + strValue1);
 
         StringBuffer stringBuffer = new StringBuffer();
         stringBuffer.append("java");
         System.out.println("stringBuffer: " + stringBuffer);
+        System.out.println("stringBuffer: " + System.identityHashCode(stringBuffer));
+        stringBuffer.append("s");
+        System.out.println("stringBuffer: " + stringBuffer);
+        System.out.println("stringBuffer: " + System.identityHashCode(stringBuffer));
+
 
         StringBuilder stringBuilder = new StringBuilder();
         stringBuilder.append("Teacher..");

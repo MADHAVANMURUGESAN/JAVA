@@ -7,15 +7,16 @@ abstract class AreaCalculater {
 }
 
 class Square implements CalculateArea {
-    public int getDiameter() {
-        return diameter;
-    }
+
+    private int diameter;
 
     public Square(int diameter) {
         this.diameter = diameter;
     }
 
-    private int diameter;
+    public int getDiameter() {
+        return diameter;
+    }
 
     @Override
     public void calArea() {

@@ -5,13 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="272775aa-880b-4f79-abbd-1dacd426a5f9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/SolidPrinciple/src/DipPrinciple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SolidPrinciple/src/DipPrincipleRealWorldExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SolidPrinciple/src/DipViolationPrinciple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SolidPrinciple/src/IspPrinciple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SolidPrinciple/src/IspPrincipleRealWorldExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SolidPrinciple/src/IspViolationPrinciple.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CollectionConcept/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/CollectionConcept/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SolidPrinciple/src/OcpPrinciple.java" beforeDir="false" afterPath="$PROJECT_DIR$/SolidPrinciple/src/OcpPrinciple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basicconcept/src/StringConcept.java" beforeDir="false" afterPath="$PROJECT_DIR$/basicconcept/src/StringConcept.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CollectionConcept/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CollectionConcept/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SolidPrinciple/OcpPrinciple.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SolidPrinciple/OcpPrinciple.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SolidPrinciple/Square.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SolidPrinciple/Square.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SolidPrinciple/Triangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SolidPrinciple/Triangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/basicconcept/StringConcept.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/basicconcept/StringConcept.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,74 +38,69 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AbstractClassConcept.executor": "Run",
-    "Application.AbstractConcept.executor": "Run",
-    "Application.ArrayConcept.executor": "Run",
-    "Application.CheckedException.executor": "Run",
-    "Application.ConceptOfConstructor.executor": "Run",
-    "Application.Conceptofclass.executor": "Run",
-    "Application.ConvertionConcept.executor": "Run",
-    "Application.DipPrinciple.executor": "Run",
-    "Application.DipViolationPrinciple.executor": "Run",
-    "Application.EncapsulationClass.executor": "Run",
-    "Application.ExceptionConcept.executor": "Run",
-    "Application.FinallyConcept.executor": "Run",
-    "Application.HashtableConcept.executor": "Run",
-    "Application.InBuildException.executor": "Run",
-    "Application.InitThrgMethod.executor": "Run",
-    "Application.InterfaceConcept.executor": "Run",
-    "Application.IspPrincipleRealWorldExample.executor": "Run",
-    "Application.IspViolationPrinciple.executor": "Run",
-    "Application.ListConcept.executor": "Run",
-    "Application.LspPrinciple.executor": "Run",
-    "Application.LspPrincipleRealWorldExample.executor": "Run",
-    "Application.LspViolationPrinciple.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.MapConcept.executor": "Run",
-    "Application.OCPPrincipleExample.executor": "Run",
-    "Application.ObjectClassMethods.executor": "Run",
-    "Application.OcpPrinciple.executor": "Run",
-    "Application.OcpViolationPrinciple.executor": "Run",
-    "Application.QueueConcept.executor": "Run",
-    "Application.RandomConcept.executor": "Run",
-    "Application.RunnableInterface.executor": "Run",
-    "Application.SetConcept.executor": "Run",
-    "Application.SingleClass.executor": "Run",
-    "Application.SrpPrinciple.executor": "Run",
-    "Application.SrpPrincipleRealWorldExample.executor": "Run",
-    "Application.SrpViolationPrinciple.executor": "Run",
-    "Application.StringConcept.executor": "Run",
-    "Application.Switchconcept.executor": "Run",
-    "Application.ThreadClass.executor": "Run",
-    "Application.UncheckedConcept.executor": "Run",
-    "Application.UserDefineException.executor": "Run",
-    "Application.WrapperClassConcept.executor": "Run",
-    "Application.dateFormate.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/JAVA",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AbstractClassConcept.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AbstractConcept.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayConcept.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CheckedException.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConceptOfConstructor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Conceptofclass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConvertionConcept.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DipPrinciple.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DipPrincipleRealWorldExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DipViolationPrinciple.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EncapsulationClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExceptionConcept.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FinallyConcept.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HashtableConcept.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InBuildException.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InitThrgMethod.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InterfaceConcept.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IspPrincipleRealWorldExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IspViolationPrinciple.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ListConcept.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LspPrinciple.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LspPrincipleRealWorldExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LspViolationPrinciple.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MapConcept.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OCPPrincipleExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ObjectClassMethods.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OcpPrinciple.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OcpViolationPrinciple.executor&quot;: &quot;Run&quot;,
+    &quot;Application.QueueConcept.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RandomConcept.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RunnableInterface.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SetConcept.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SingleClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SplitConcept.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SrpPrinciple.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SrpPrincipleRealWorldExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SrpViolationPrinciple.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringConcept.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Switchconcept.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreadClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UncheckedConcept.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UserDefineException.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WrapperClassConcept.executor&quot;: &quot;Run&quot;,
+    &quot;Application.dateFormate.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/JAVA&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\JAVA\AdvanceJava\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DipPrincipleRealWorldExample">
-    <configuration name="DipPrinciple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DipPrinciple" />
-      <module name="SolidPrinciple" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.StringConcept">
     <configuration name="DipPrincipleRealWorldExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DipPrincipleRealWorldExample" />
       <module name="SolidPrinciple" />
@@ -111,34 +108,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DipViolationPrinciple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DipViolationPrinciple" />
-      <module name="SolidPrinciple" />
+    <configuration name="ListConcept" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ListConcept" />
+      <module name="CollectionConcept" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IspPrincipleRealWorldExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IspPrincipleRealWorldExample" />
-      <module name="SolidPrinciple" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="CollectionConcept" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IspViolationPrinciple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IspViolationPrinciple" />
-      <module name="SolidPrinciple" />
+    <configuration name="SplitConcept" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SplitConcept" />
+      <module name="JAVA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringConcept" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringConcept" />
+      <module name="basicconcept" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringConcept" />
+        <item itemvalue="Application.SplitConcept" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ListConcept" />
         <item itemvalue="Application.DipPrincipleRealWorldExample" />
-        <item itemvalue="Application.DipPrinciple" />
-        <item itemvalue="Application.DipViolationPrinciple" />
-        <item itemvalue="Application.IspPrincipleRealWorldExample" />
-        <item itemvalue="Application.IspViolationPrinciple" />
       </list>
     </recent_temporary>
   </component>
@@ -160,6 +164,11 @@
           <url>file://$PROJECT_DIR$/CollectionConcept/src/SetConcept.java</url>
           <line>16</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CollectionConcept/src/ListConcept.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
