@@ -5,15 +5,55 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="272775aa-880b-4f79-abbd-1dacd426a5f9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/JAVA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/JAVA.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionConcept/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/CollectionConcept/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolidPrinciple/src/OcpPrinciple.java" beforeDir="false" afterPath="$PROJECT_DIR$/SolidPrinciple/src/OcpPrinciple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basicconcept/src/StringConcept.java" beforeDir="false" afterPath="$PROJECT_DIR$/basicconcept/src/StringConcept.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CollectionConcept/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CollectionConcept/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidPrinciple/OcpPrinciple.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SolidPrinciple/OcpPrinciple.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidPrinciple/Square.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SolidPrinciple/Square.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SolidPrinciple/Triangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SolidPrinciple/Triangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/basicconcept/StringConcept.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/basicconcept/StringConcept.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdvanceJava/src/CalenderApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/AdvanceJava/src/CalenderApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdvanceJava/src/CosumerGet.java" beforeDir="false" afterPath="$PROJECT_DIR$/AdvanceJava/src/CosumerGet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdvanceJava/src/FunInterfaceWithLambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/AdvanceJava/src/FunInterfaceWithLambda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdvanceJava/src/FunInterfaceWithoutLambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/AdvanceJava/src/FunInterfaceWithoutLambda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdvanceJava/src/FunctionCall.java" beforeDir="false" afterPath="$PROJECT_DIR$/AdvanceJava/src/FunctionCall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdvanceJava/src/FunctionSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/AdvanceJava/src/FunctionSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdvanceJava/src/FunctionalAllMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/AdvanceJava/src/FunctionalAllMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdvanceJava/src/Httpclients.java" beforeDir="false" afterPath="$PROJECT_DIR$/AdvanceJava/src/Httpclients.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdvanceJava/src/MethodReference.java" beforeDir="false" afterPath="$PROJECT_DIR$/AdvanceJava/src/MethodReference.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdvanceJava/src/NormalInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/AdvanceJava/src/NormalInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdvanceJava/src/OptionalValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/AdvanceJava/src/OptionalValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdvanceJava/src/PredicateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/AdvanceJava/src/PredicateTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdvanceJava/src/ReadFileExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/AdvanceJava/src/ReadFileExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdvanceJava/src/RunnablesFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/AdvanceJava/src/RunnablesFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdvanceJava/src/StreamList.java" beforeDir="false" afterPath="$PROJECT_DIR$/AdvanceJava/src/StreamList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdvanceJava/src/StringMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/AdvanceJava/src/StringMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdvanceJava/src/WriteFileExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/AdvanceJava/src/WriteFileExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdvanceJava/src/dateFormate.java" beforeDir="false" afterPath="$PROJECT_DIR$/AdvanceJava/src/dateFormate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPattern/src/BuilderDesignPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/src/BuilderDesignPattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPattern/src/FactoryPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/src/FactoryPattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPattern/src/SingletonEagarPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/src/SingletonEagarPattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExceptionHandleConcept/src/ExceptionHandling.java" beforeDir="false" afterPath="$PROJECT_DIR$/ExceptionHandleConcept/src/ExceptionHandling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/src/BoundedTypeParameters.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics/src/BoundedTypeParameters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/src/GenericsClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics/src/GenericsClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/src/GenericsConstructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics/src/GenericsConstructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/src/GenericsInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics/src/GenericsInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/src/GenericsMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics/src/GenericsMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/src/WildCardsType.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics/src/WildCardsType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IoOperation/src/BufferedOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/IoOperation/src/BufferedOperation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IoOperation/src/NioFileOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/IoOperation/src/NioFileOperation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JDBC/JDBC.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JDBC/JDBC.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JDBC/src/CreateQuery.java" beforeDir="false" afterPath="$PROJECT_DIR$/JDBC/src/CreateQuery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JDBC/src/DeleteQuery.java" beforeDir="false" afterPath="$PROJECT_DIR$/JDBC/src/DeleteQuery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JDBC/src/SelectQuery.java" beforeDir="false" afterPath="$PROJECT_DIR$/JDBC/src/SelectQuery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultithreadConcept/src/MultiThreadConcept.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultithreadConcept/src/MultiThreadConcept.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basicconcept/src/Direction.java" beforeDir="false" afterPath="$PROJECT_DIR$/basicconcept/src/Direction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basicconcept/src/EnumsMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/basicconcept/src/EnumsMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basicconcept/src/WrapperConvertion.java" beforeDir="false" afterPath="$PROJECT_DIR$/basicconcept/src/WrapperConvertion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basicconcept/src/ascillCharacterConvert.java" beforeDir="false" afterPath="$PROJECT_DIR$/basicconcept/src/ascillCharacterConvert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basicconcept/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/basicconcept/src/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA/dateFormate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JAVA/dateFormate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/AmbiguityError.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/AmbiguityError.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/Diamondproblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Diamondproblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/StringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/StringTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/TEST.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/TEST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/pattern.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,18 +82,41 @@
   &quot;keyToString&quot;: {
     &quot;Application.AbstractClassConcept.executor&quot;: &quot;Run&quot;,
     &quot;Application.AbstractConcept.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AmbiguityError.executor&quot;: &quot;Run&quot;,
     &quot;Application.ArrayConcept.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BoundedTypeParameters.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BufferedOperation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BuilderDesignPattern.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CalenderApi.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Call.executor&quot;: &quot;Run&quot;,
     &quot;Application.CheckedException.executor&quot;: &quot;Run&quot;,
     &quot;Application.ConceptOfConstructor.executor&quot;: &quot;Run&quot;,
     &quot;Application.Conceptofclass.executor&quot;: &quot;Run&quot;,
     &quot;Application.ConvertionConcept.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CosumerGet.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CreateQuery.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DeleteQuery.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Diamondproblem.executor&quot;: &quot;Run&quot;,
     &quot;Application.DipPrinciple.executor&quot;: &quot;Run&quot;,
     &quot;Application.DipPrincipleRealWorldExample.executor&quot;: &quot;Run&quot;,
     &quot;Application.DipViolationPrinciple.executor&quot;: &quot;Run&quot;,
     &quot;Application.EncapsulationClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EnumsMethods.executor&quot;: &quot;Run&quot;,
     &quot;Application.ExceptionConcept.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExceptionHandling.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FactoryPattern.executor&quot;: &quot;Run&quot;,
     &quot;Application.FinallyConcept.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FunInterfaceWithLambda.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FunInterfaceWithoutLambda.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FunctionCall.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FunctionSample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FunctionalAllMethod.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GeneralGenerics.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GenericsConstructor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GenericsInterface.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GenericsMethods.executor&quot;: &quot;Run&quot;,
     &quot;Application.HashtableConcept.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Httpclients.executor&quot;: &quot;Run&quot;,
     &quot;Application.InBuildException.executor&quot;: &quot;Run&quot;,
     &quot;Application.InitThrgMethod.executor&quot;: &quot;Run&quot;,
     &quot;Application.InterfaceConcept.executor&quot;: &quot;Run&quot;,
@@ -63,35 +126,61 @@
     &quot;Application.LspPrinciple.executor&quot;: &quot;Run&quot;,
     &quot;Application.LspPrincipleRealWorldExample.executor&quot;: &quot;Run&quot;,
     &quot;Application.LspViolationPrinciple.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main (1).executor&quot;: &quot;Run&quot;,
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
     &quot;Application.MapConcept.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MethodReference.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultiThreadConcept.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NioFileOperation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NormalInterface.executor&quot;: &quot;Run&quot;,
     &quot;Application.OCPPrincipleExample.executor&quot;: &quot;Run&quot;,
     &quot;Application.ObjectClassMethods.executor&quot;: &quot;Run&quot;,
     &quot;Application.OcpPrinciple.executor&quot;: &quot;Run&quot;,
     &quot;Application.OcpViolationPrinciple.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OptionalValue.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PredicateTest.executor&quot;: &quot;Run&quot;,
     &quot;Application.QueueConcept.executor&quot;: &quot;Run&quot;,
     &quot;Application.RandomConcept.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReadFileExample.executor&quot;: &quot;Run&quot;,
     &quot;Application.RunnableInterface.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RunnablesFunction.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SelectQuery.executor&quot;: &quot;Run&quot;,
     &quot;Application.SetConcept.executor&quot;: &quot;Run&quot;,
     &quot;Application.SingleClass.executor&quot;: &quot;Run&quot;,
     &quot;Application.SplitConcept.executor&quot;: &quot;Run&quot;,
     &quot;Application.SrpPrinciple.executor&quot;: &quot;Run&quot;,
     &quot;Application.SrpPrincipleRealWorldExample.executor&quot;: &quot;Run&quot;,
     &quot;Application.SrpViolationPrinciple.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamList.executor&quot;: &quot;Run&quot;,
     &quot;Application.StringConcept.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringMethods.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringTest.executor&quot;: &quot;Run&quot;,
     &quot;Application.Switchconcept.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TEST.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
     &quot;Application.ThreadClass.executor&quot;: &quot;Run&quot;,
     &quot;Application.UncheckedConcept.executor&quot;: &quot;Run&quot;,
     &quot;Application.UserDefineException.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WildCardsType.executor&quot;: &quot;Run&quot;,
     &quot;Application.WrapperClassConcept.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WrapperConvertion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WriteFileExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ascillCharacterConvert.executor&quot;: &quot;Debug&quot;,
     &quot;Application.dateFormate.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pattern.executor&quot;: &quot;Run&quot;,
+    &quot;Application.test.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/JAVA&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/JAVA/mysql_lib/mysql-connector-j-9.1.0.jar&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.6183908&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
@@ -100,37 +189,37 @@
       <recent name="D:\JAVA\AdvanceJava\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StringConcept">
-    <configuration name="DipPrincipleRealWorldExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DipPrincipleRealWorldExample" />
-      <module name="SolidPrinciple" />
+  <component name="RunManager" selected="Application.test">
+    <configuration name="BoundedTypeParameters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BoundedTypeParameters" />
+      <module name="Generics" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListConcept" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ListConcept" />
-      <module name="CollectionConcept" />
+    <configuration name="GenericsConstructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GenericsConstructor" />
+      <module name="Generics" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="CollectionConcept" />
+    <configuration name="GenericsInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GenericsInterface" />
+      <module name="Generics" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SplitConcept" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SplitConcept" />
-      <module name="JAVA" />
+    <configuration name="WildCardsType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WildCardsType" />
+      <module name="Generics" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringConcept" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringConcept" />
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
       <module name="basicconcept" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -138,11 +227,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StringConcept" />
-        <item itemvalue="Application.SplitConcept" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.ListConcept" />
-        <item itemvalue="Application.DipPrincipleRealWorldExample" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.WildCardsType" />
+        <item itemvalue="Application.GenericsConstructor" />
+        <item itemvalue="Application.BoundedTypeParameters" />
+        <item itemvalue="Application.GenericsInterface" />
       </list>
     </recent_temporary>
   </component>
@@ -157,6 +246,17 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -170,7 +270,17 @@
           <line>2</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/basicconcept/src/ascillCharacterConvert.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="a" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>

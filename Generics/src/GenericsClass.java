@@ -1,4 +1,4 @@
-public class GeneralGenerics {
+public class GenericsClass {
     public static void main(String[] args) {
         PayMent<Integer> payMent1 = new PayMent<>();
         payMent1.setItem(2);

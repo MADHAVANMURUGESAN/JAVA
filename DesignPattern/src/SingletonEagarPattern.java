@@ -1,20 +1,39 @@
 
-public class SingletonPattern {
-    private SingletonPattern() {
+public class SingletonEagarPattern {
+    private SingletonEagarPattern() {
     }
 
-    private static SingletonPattern instance = new SingletonPattern();
+    private static SingletonEagarPattern instance = new SingletonEagarPattern();
 
-    public static SingletonPattern getEagarInstance() {
+    {
+        System.out.println("create instance...");
+    }
+
+    public static SingletonEagarPattern getEagarInstance() {
+        return instance;
+    }
+}
+
+class SingletonLazyPattern {
+    private SingletonLazyPattern() {
+    }
+
+    private static SingletonLazyPattern instance = null;
+
+    public static SingletonLazyPattern getLazyInstance() {
+        if (instance == null) {
+            return new SingletonLazyPattern();
+        }
         return instance;
     }
 }
 
 class Call {
     public static void main(String[] args) {
-        SingletonPattern eagarSingleton1 = SingletonPattern.getEagarInstance();
+        SingletonEagarPattern eagarSingleton1 = SingletonEagarPattern.getEagarInstance();
         System.out.println("eagarSingleton1" + eagarSingleton1);
-        SingletonPattern eagarSingleton2 = SingletonPattern.getEagarInstance();
+        SingletonEagarPattern eagarSingleton2 = SingletonEagarPattern.getEagarInstance();
         System.out.println("eagarSingleton2" + eagarSingleton2);
+
     }
 }
