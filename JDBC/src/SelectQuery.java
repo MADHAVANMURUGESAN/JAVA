@@ -3,6 +3,7 @@ import java.sql.*;
 public class SelectQuery {
     public static void main(String[] args) {
         try {
+            // JDBC version 4.0 (Java 6 and above), the JDBC API automatically loads the driver
             Class.forName("com.mysql.cj.jdbc.Driver");
             Connection connection =
                     DriverManager.getConnection("jdbc:mysql://localhost:3306/book", "root", "root");

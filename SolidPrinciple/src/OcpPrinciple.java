@@ -49,8 +49,8 @@ class Triangle extends AreaCalculater {
 
 public class OcpPrinciple {
     public static void main(String[] args) {
-        Square square = new Square(12);
-        Triangle triangle = new Triangle(7, 11);
+        CalculateArea square = new Square(12);
+        AreaCalculater triangle = new Triangle(7, 11);
         triangle.calArea();
         square.calArea();
     }

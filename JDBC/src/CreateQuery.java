@@ -17,6 +17,7 @@ public class CreateQuery {
         try {
             System.out.println("Registering JDBC driver...");
             // Step 1: Register JDBC driver
+            // JDBC version 4.0 (Java 6 and above), the JDBC API automatically loads the driver
             // Class.forName(JDBC_DRIVER);
             Class.forName("com.mysql.cj.jdbc.Driver");
 

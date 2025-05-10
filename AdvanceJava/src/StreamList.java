@@ -51,5 +51,8 @@ public class StreamList {
         System.out.println("streamStr: " + streamStr.toList());
         arrStr1.removeIf(n -> !n.equals("c"));
         System.out.println(arrStr1);
+
+
+
     }
 }
